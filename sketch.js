@@ -176,6 +176,6 @@ function spawnObstacles() {
 }
 
 function reset(){
-// Vamos adicionar o que falta
+// Vamos adicionar as instruções que faltam
   
 }
